@@ -22,7 +22,7 @@
 ## Bios Setting (Ver.E1759IMS.52D)  
 1. Advanced -> SATA Mode Selection -> AHCI  
 2. Advanced -> SuperCharger  works... -> Disabled  
-3. Advanced -> Intel Virtualization Technology -> Disabled  
+3. Advanced -> Intel Virtualization Technology -> Enable    
 4. Boot -> Fast Boot -> Disabled  
 5. Boot -> Boot Mode Select -> UEFI With CSM  
 6. Security -> If there is a secure boot, disable it  
