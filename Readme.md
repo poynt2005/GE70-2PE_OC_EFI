@@ -1,5 +1,6 @@
 # Hackintosh OpenCore EFI for MSI GE70-2PE Apache Pro
 
+## *ONLY FOR OPENCORE 0.7.8*
 ## *ONLY TESTED ON MACOS CATALINA(10.15.4)*
 
 ## Specification/Ports
