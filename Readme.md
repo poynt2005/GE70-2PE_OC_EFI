@@ -27,7 +27,7 @@
 5. Boot -> Boot Mode Select -> UEFI With CSM  
 6. Security -> If there is a secure boot, disable it  
 7. Other Options -> Let 'em default  
-8. After installing and setting up the EFI partition (adding a new OpenCore partition using *[EasyUEFI](https://www.easyuefi.com/)*), go to Boot -> UEFI Hard Disk Drive BBS priorities -> Set OpenCore partition to Boot Option #1
+8. After installing your OS and setting up the EFI partition (adding a new OpenCore partition using *[EasyUEFI](https://www.easyuefi.com/)*), go to Boot -> UEFI Hard Disk Drive BBS priorities -> Set OpenCore partition to Boot Option #1
 
 ## Known issues
 1. Hibernate not working, may cause kernel panic.  
