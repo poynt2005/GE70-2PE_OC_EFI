@@ -35,4 +35,4 @@
 2. HDMI out not working, may cause kernel panic.  
 3. Ethernet(killer E2200) not tested.   
 4. [HeliPort App](https://github.com/OpenIntelWireless/HeliPort) is required to enable wireless Lan. 
-5. May cause some graphic glitches in Safiri, screen sharing...etc.
+5. May cause some graphic glitches in Safari, screen sharing...etc.
